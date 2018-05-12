@@ -1,0 +1,36 @@
+_repo: Hebrew-Heroes--A-Tale-Founded-on-Jewish-History_26094
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: A. L. O. E.
+    alias: Tucker, Charlotte Maria
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+description: A fantastic historical story by English author Charlotte Maria Tucker,
+  better known by her pen-name of A.L.O.E. (a Lady of England). It follows the tale,
+  based on historical accounts, of Judas Maccabaeus, who led the Maccabean revolt
+  against the Seleucid Empire.
+gutenberg_issued: '2008-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Judas Maccabaeus (Judah Maccabee, יהודה המכבי)'
+- !lcsh 'Bible. Old Testament -- Fiction'
+- !lcc 'BM'
+- !lcc 'BS'
+- !lcsh 'Jews -- History -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcc 'PR'
+title: 'Hebrew Heroes: A Tale Founded on Jewish History'
+url: http://www.gutenberg.org/ebooks/26094
