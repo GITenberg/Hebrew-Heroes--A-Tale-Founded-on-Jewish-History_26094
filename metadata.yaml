@@ -16,6 +16,8 @@ description: A fantastic historical story by English author Charlotte Maria Tuck
   better known by her pen-name of A.L.O.E. (a Lady of England). It follows the tale,
   based on historical accounts, of Judas Maccabaeus, who led the Maccabean revolt
   against the Seleucid Empire.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26094#Hebrew-Heroes--A-Tale-Founded-on-Jewish-History
 gutenberg_issued: '2008-07-20'
 gutenberg_type: Text
 identifiers:
